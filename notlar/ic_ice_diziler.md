@@ -1,0 +1,3 @@
+## İç İçe Dizi Oluşturmak
+
+Burada olacak...
