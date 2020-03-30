@@ -9,4 +9,4 @@
 
 
 
-[Atama Operatörleri](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/atama.md) :arrow_left: [ANASAYFA](https://github.com/yeniceri1453/Ubuntu-Php) :arrow_right: [Karşılaştırma Operatörleri](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/karsilastirma.md)
+[Atama Operatörleri](Ubuntu-Php/blob/master/notlar/atama.md) :arrow_left: [ANASAYFA](Ubuntu-Php) :arrow_right: [Karşılaştırma Operatörleri](Ubuntu-Php/blob/master/notlar/karsilastirma.md)

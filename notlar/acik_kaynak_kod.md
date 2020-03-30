@@ -15,4 +15,4 @@ Açık kaynak kodlu yazılımlar;
 -   Yazılım geliştiricisinin PC'nizde şüpheli işler çevirmediğinden emin olmanızı sağlar. Kaynak kodu kapalı bir yazılımın yaptığını iddia ettiği şeyleri gerçekten güvenilir yoldan yaptığını anlamanın çok fazla yolu olmayabilir.
 
 
-[ANASAYFA](https://github.com/yeniceri1453/Ubuntu-Php)
+[ANASAYFA](Ubuntu-Php)

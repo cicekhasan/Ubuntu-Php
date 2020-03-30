@@ -4,7 +4,7 @@
 Not: Konsol komutlarını kopyalarken, "#" simgesi ile başlayan yerleri almayınız. Buralar açıklamadır. Komutların ne yaptığını, ne işe yaradığını anlamanız için yazılmıştır.
 ```
 
-Kurulum komutlarının açıklamalı sade listesine [buradan](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/kurulum_kodlari.md) ulaşabilirsiniz.
+Kurulum komutlarının açıklamalı sade listesine [buradan](Ubuntu-Php/blob/master/notlar/kurulum_kodlari.md) ulaşabilirsiniz.
 
 ## SİSTEMİN GÜNCELLENMESİ
 
