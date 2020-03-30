@@ -6,7 +6,7 @@ Yazık... Siz daha linux kullanmıyormusunuz. Linux kullanmıyorsanız lütfen s
 
 Yalnız arkadaşlar, benim burada kısaca değinmeye çalışacağım konulara başlamadan önce bizim dünyamızda kullandığımız bazı terimler hakkında bilgi sahibi olmanız gerektiğini düşünüyorum. Bunlar;
 
--  [Linux](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/linux.md)
+-  [Linux](linux.md)
 -  [Özgür Yazılım](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/ozgur_yazilim_nedir.md)
 -  [Açık Kaynak Kod](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/acik_kaynak_kod.md)
 -  [Dns](https://github.com/yeniceri1453/Ubuntu-Php/blob/master/notlar/dns.md)
